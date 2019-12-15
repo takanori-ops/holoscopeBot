@@ -4,4 +4,6 @@
 *Docker環境は作成中
 
 
-HerokuにUpするファイルはsrc/配下に配置してます。
+HerokuにUpするファイルは
+todaysholobot
+です
